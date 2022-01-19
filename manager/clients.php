@@ -5,14 +5,15 @@ include_once("../phpGrid/conf.php");
 include_once('../inc/head.php');
 ?>
 
-<h1>My Simple Project Management</h1>
+<h1>Mi creación de gestor de proyectos</h1>
 
 <?php
 $_GET['currentPage'] = 'clients';
 include_once('../inc/menu.php');
+// para mostrar elementos de la BBDD
 ?>
 
-<h3>Clients</h3>
+<h3>Clientes</h3>
 
 <?php
 $dgClient = new C_DataGrid("SELECT id, Name, Website, Industry, Phone FROM clients", "id", "clients");
