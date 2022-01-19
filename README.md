@@ -14,3 +14,8 @@ UTF8_general_ci
 - Surgió un problema con las rutas y daba error con el Grid. Modifiqué el nombre del archivo de descarga de 'phpGrid-Lite', eliminé '-Lite', dejó de dar errores y me permitió entrar a ver las tablas, funcionaba bien 
 - Comprobación general de funcionamiento óptima.
 Ya se puede utilizar y el tutorial ha salido con éxito!
+
+![image](https://user-images.githubusercontent.com/91055754/150100957-24e0eaf7-5e7f-4f72-b2f2-8c24eab0063d.png)
+![image](https://user-images.githubusercontent.com/91055754/150101019-7053e2b5-ef3c-4e10-88b6-6f393ca659ba.png)
+![image](https://user-images.githubusercontent.com/91055754/150101103-e086f6e8-0d23-41b1-84ba-997f1e0eb7a5.png)
+![image](https://user-images.githubusercontent.com/91055754/150101163-e5aada53-43eb-4837-8d3c-3f2474328829.png)
