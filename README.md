@@ -10,4 +10,7 @@ UTF8_general_ci
 - Rellenamos los contenidos de la carpeta includes con head, menu y footer con sus correspondientes líneas de código dentro del repositorio: https://github.com/phpcontrols/phpgrid-project-management 
 <!--  -->
 - Creamos archivo tmp.php e incluimos contenido, al igual que hacemos con template.php
-
+- Poco a poco vamos rellenando todas las carpetas 
+- Surgió un problema con las rutas y daba error con el Grid. Modifiqué el nombre del archivo de descarga de 'phpGrid-Lite', eliminé '-Lite', dejó de dar errores y me permitió entrar a ver las tablas, funcionaba bien 
+- Comprobación general de funcionamiento óptima.
+Ya se puede utilizar y el tutorial ha salido con éxito!
