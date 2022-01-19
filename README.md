@@ -4,7 +4,10 @@ CREATE DATABASE ...
 CREATE USER ... IDENTIFIED BY...
 UTF8_general_ci
 - Descargamos el PHPGrid_Lite
-- Dentro del archivo config.php metemos las credenciales creadas para la BBDD
+- Dentro del archivo config.php metemos las credenciales creadas para la BBDD:
+PHPGRID_DB_USERNAME — USUARIO
+PHPGRID_DB_PASSWORD — CONTRASEÑA
+PHPGRID_DB_NAME — NOMBRE BBDD
 - En PHPMyAdmin, habiendo descargado el archivo simple_pm_install.sql del ejercicio lo importamos para cargar todas las tablas de contenidos
 <!--  -->
 - Rellenamos los contenidos de la carpeta includes con head, menu y footer con sus correspondientes líneas de código dentro del repositorio: https://github.com/phpcontrols/phpgrid-project-management 
