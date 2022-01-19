@@ -20,7 +20,7 @@ PHPGRID_DB_NAME — NOMBRE BBDD
 - Comprobación general de funcionamiento óptima.
 Ya se puede utilizar y el tutorial ha salido con éxito!
 
-![image](https://user-images.githubusercontent.com/91055754/150100957-24e0eaf7-5e7f-4f72-b2f2-8c24eab0063d.png)
-![image](https://user-images.githubusercontent.com/91055754/150101019-7053e2b5-ef3c-4e10-88b6-6f393ca659ba.png)
+![image](https://user-images.githubusercontent.com/91055754/150144258-a0955fdc-9b88-4fb3-b6e0-aa42c0d0da19.png)
+![image](https://user-images.githubusercontent.com/91055754/150144335-17133023-c879-441d-bed7-7839bd47ea4a.png)
 ![image](https://user-images.githubusercontent.com/91055754/150101103-e086f6e8-0d23-41b1-84ba-997f1e0eb7a5.png)
-![image](https://user-images.githubusercontent.com/91055754/150101163-e5aada53-43eb-4837-8d3c-3f2474328829.png)
+![image](https://user-images.githubusercontent.com/91055754/150144467-2783ae21-e322-4ba4-8e04-17e4edae9192.png)
