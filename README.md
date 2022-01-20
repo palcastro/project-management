@@ -22,5 +22,5 @@ Ya se puede utilizar y el tutorial ha salido con éxito!
 
 ![image](https://user-images.githubusercontent.com/91055754/150144258-a0955fdc-9b88-4fb3-b6e0-aa42c0d0da19.png)
 ![image](https://user-images.githubusercontent.com/91055754/150144335-17133023-c879-441d-bed7-7839bd47ea4a.png)
-![image](https://user-images.githubusercontent.com/91055754/150101103-e086f6e8-0d23-41b1-84ba-997f1e0eb7a5.png)
+![image](https://user-images.githubusercontent.com/91055754/150290259-f978c338-cb8b-43e7-b802-d17709ea80ce.png)
 ![image](https://user-images.githubusercontent.com/91055754/150144467-2783ae21-e322-4ba4-8e04-17e4edae9192.png)
