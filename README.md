@@ -6,11 +6,11 @@ UTF8_general_ci
 - Descargamos el PHPGrid_Lite
 - Dentro del archivo config.php metemos las credenciales creadas para la BBDD
 <!-- - -->
-(ul)
-(li) PHPGRID_DB_USERNAME — USUARIO
-(li) PHPGRID_DB_PASSWORD — CONTRASEÑA
-(li) PHPGRID_DB_NAME — NOMBRE BBDD
-(ul)
+
+ 1. PHPGRID_DB_USERNAME — USUARIO
+ 2. PHPGRID_DB_PASSWORD — CONTRASEÑA
+ 3. PHPGRID_DB_NAME — NOMBRE BBDD
+
 <!--  -->
 - En PHPMyAdmin, habiendo descargado el archivo simple_pm_install.sql del ejercicio lo importamos para cargar todas las tablas de contenidos
 <!--  -->
