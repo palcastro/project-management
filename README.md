@@ -19,7 +19,7 @@ PHPGRID_DB_NAME — NOMBRE BBDD
 - Surgió un problema con las rutas y daba error con el Grid. Modifiqué el nombre del archivo de descarga de 'phpGrid-Lite', eliminé '-Lite', dejó de dar errores y me permitió entrar a ver las tablas, funcionaba bien 
 - Comprobación general de funcionamiento óptima.
 Ya se puede utilizar y el tutorial ha salido con éxito!
-El siguiente paso que realizamos a mayores fue las modificaciones en los archivos de estilos, cambiando los colores de las tablas, personalizando la letra del índice inicial y el fondo, traduciendo alguna de las partes al española, las partes que están en inglés se podrían haber modificado desde PHPmyadmin modificando las tablas subidas. 
+- El siguiente paso que realizamos a mayores fue las modificaciones en los archivos de estilos, cambiando los colores de las tablas, personalizando la letra del índice inicial y el fondo, traduciendo alguna de las partes al española, las partes que están en inglés se podrían haber modificado desde PHPmyadmin modificando las tablas subidas. 
 Igual que el color que estaba de base, me quedé con el azul, simplemente lo cambié todo a tonos más oscuros, para que las tablas destacasen más. 
 <!--  -->
 A continuación se muestra como se ve el proyecto una vez acabado:
